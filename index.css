@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+main {
+  gap: 10px;
+  display: flex !important;
+  
+  justify-content: space-between
+}
+
